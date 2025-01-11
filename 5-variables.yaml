@@ -1,5 +1,5 @@
 - name: variables
-  hosts: Web
+  hosts: 172.31.91.212
   vars:
     course: "Devops with AWS"
     duration: 120hrs
